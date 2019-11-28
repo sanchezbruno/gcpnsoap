@@ -1,0 +1,6 @@
+D:\SOAP\WSSOAP\WSSOAP\bin\WSSOAP.dll.config
+D:\SOAP\WSSOAP\WSSOAP\bin\WSSOAP.dll
+D:\SOAP\WSSOAP\WSSOAP\bin\WSSOAP.pdb
+D:\SOAP\WSSOAP\WSSOAP\obj\Debug\WSSOAP.csprojResolveAssemblyReference.cache
+D:\SOAP\WSSOAP\WSSOAP\obj\Debug\WSSOAP.dll
+D:\SOAP\WSSOAP\WSSOAP\obj\Debug\WSSOAP.pdb
